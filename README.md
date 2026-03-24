@@ -18,7 +18,7 @@
 - 🎓 Computer Science graduate from **MIT Kundapura**
 - 📘 Advanced diploma holder in **Data Analysis**
 - 📈 Passionate about **data analytics, dashboards, reporting, and business insights**
-- 🧠 Skilled in **Python, SQL, Excel, Power BI, Pandas, and NumPy**
+- 🧠 Skilled in **Python, SQL, Excel, Power BI, Tableau, Pandas, and NumPy**
 - 🔍 Interested in solving business problems using **data-driven decision-making**
 
 ---
@@ -33,6 +33,7 @@
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 </p>
 
 ### Tools
@@ -43,6 +44,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
 </p>
 
 ---
@@ -54,7 +56,7 @@
 <td width="50%">
   <h3 align="center">🏥 Healthcare Insurance Data Analysis</h3>
   <a href="https://github.com/Vampire38/Healthcare_Insurance_DataAnalysis">
-    <img src="YOUR_HEALTHCARE_IMAGE_LINK_HERE" width="100%" alt="Healthcare Insurance Data Analysis"/>
+    <img src="https://github.com/Vampire38/Healthcare_Insurance_DataAnalysis/blob/main/Healthcare%20insurance%20analysis.jpeg" width="100%" alt="Healthcare Insurance Data Analysis"/>
   </a>
   <p align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
