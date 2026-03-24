@@ -69,7 +69,7 @@
 <td width="50%">
   <h3 align="center">🚗 BMW Sales Analysis</h3>
   <a href="https://github.com/Vampire38/BMW_sale_Analysis">
-    <img src="YOUR_BMW_IMAGE_LINK_HERE" width="100%" alt="BMW Sales Analysis"/>
+    <img src="https://raw.githubusercontent.com/Vampire38/BMW_sale_Analysis/main/BMW_Sales_Dashboard.png" width="100%" alt="BMW Sales Analysis"/>
   </a>
   <p align="center">
     <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
@@ -86,7 +86,7 @@
 <td width="50%">
   <h3 align="center">🛒 Amazon Sales Analysis</h3>
   <a href="https://github.com/Vampire38/Amazon_sales_Analysis">
-    <img src="YOUR_AMAZON_IMAGE_LINK_HERE" width="100%" alt="Amazon Sales Analysis"/>
+    <img src="https://raw.githubusercontent.com/Vampire38/Amazon_sales_Analysis/main/Amazon_sales_Dashboard.png" width="100%" alt="Amazon Sales Analysis"/>
   </a>
   <p align="center">
     <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
@@ -98,7 +98,7 @@
   </p>
 </td>
 
-<td width="50%">
+<!-- <td width="50%">
   <h3 align="center">📈 More Analytics Projects</h3>
   <a href="https://github.com/Vampire38?tab=repositories">
     <img src="YOUR_EXTRA_PROJECT_IMAGE_LINK_HERE" width="100%" alt="More Analytics Projects"/>
@@ -111,7 +111,7 @@
   <p align="center">
     Explore more of my data analysis work including reporting, SQL-based analysis, dashboard development, and business insight projects.
   </p>
-</td>
+</td> -->
 </tr>
 </table>
 
