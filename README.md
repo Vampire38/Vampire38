@@ -1,13 +1,13 @@
 <h1 align="center">Hi there, I'm Thilak 👋</h1>
-<h3 align="center">Data Analyst | Python | SQL | Power BI</h3>
+<h3 align="center">Data Analyst | Python Developer | Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Excel+%7C+Power+BI;Data+Visualization+and+Dashboard+Development;Turning+Raw+Data+into+Actionable+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Data+Analyst+%7C+Python+Developer+%7C+Full+Stack+Developer;Building+Data-Driven+Applications;React+%7C+Node+%7C+Django+%7C+SQL;Turning+Data+into+Insights+and+Applications" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-Data%20Analyst%20Roles-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Analytics%20%26%20BI-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20to-Data%20%7C%20Python%20%7C%20FullStack%20Roles-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Data%20%26%20Web%20Development-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Location-Bangalore%2C%20India-orange?style=for-the-badge" />
 </p>
 
@@ -17,34 +17,43 @@
 
 - 🎓 Computer Science graduate from **MIT Kundapura**
 - 📘 Advanced diploma holder in **Data Analysis**
-- 📈 Passionate about **data analytics, dashboards, reporting, and business insights**
-- 🧠 Skilled in **Python, SQL, Excel, Power BI, Tableau, Pandas, and NumPy**
-- 🔍 Interested in solving business problems using **data-driven decision-making**
+- 📈 Passionate about **data analytics, dashboards, and business insights**
+- 💻 Experienced in **full stack development and backend systems**
+- 🧠 Skilled in **Python, SQL, Power BI, React, Node.js, Django**
+- 🔍 Focused on **data-driven decision-making and scalable applications**
 
 ---
 
 ## 🛠️ Skills & Tools
 
-### Analytics
+### 📊 Data Analytics
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 </p>
 
-### Tools
+### 💻 Full Stack Development
 <p>
-  <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge" />
+</p>
+
+### 🗄️ Databases & Tools
+<p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ---
@@ -56,31 +65,17 @@
 <td width="50%">
   <h3 align="center">🏥 Healthcare Insurance Data Analysis</h3>
   <a href="https://github.com/Vampire38/Healthcare_Insurance_DataAnalysis">
-    <img src="https://github.com/Vampire38/Healthcare_Insurance_DataAnalysis/blob/main/Healthcare%20insurance%20analysis.jpeg" width="100%" alt="Healthcare Insurance Data Analysis"/>
+    <img src="https://github.com/Vampire38/Healthcare_Insurance_DataAnalysis/blob/main/Healthcare%20insurance%20analysis.jpeg" width="100%"/>
   </a>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Data%20Analysis-0A66C2?style=for-the-badge"/>
-  </p>
-  <p align="center">
-    Analyzed healthcare insurance data to identify cost-driving factors such as age, BMI, smoking status, and region, and extracted insights to support better decision-making.
-  </p>
+  <p align="center">Python, Pandas, Data Analysis</p>
 </td>
 
 <td width="50%">
   <h3 align="center">🚗 BMW Sales Analysis</h3>
   <a href="https://github.com/Vampire38/BMW_sale_Analysis">
-    <img src="https://raw.githubusercontent.com/Vampire38/BMW_sale_Analysis/main/BMW_Sales_Dashboard.png" width="100%" alt="BMW Sales Analysis"/>
+    <img src="https://raw.githubusercontent.com/Vampire38/BMW_sale_Analysis/main/BMW_Sales_Dashboard.png" width="100%"/>
   </a>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Dashboard-1E90FF?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Data%20Viz-FF8C00?style=for-the-badge"/>
-  </p>
-  <p align="center">
-    Built an interactive dashboard to analyze BMW sales trends, regional performance, engine size patterns, and key market insights from 2010 to 2024.
-  </p>
+  <p align="center">Power BI, Dashboard, Data Visualization</p>
 </td>
 </tr>
 
@@ -88,52 +83,51 @@
 <td width="50%">
   <h3 align="center">🛒 Amazon Sales Analysis</h3>
   <a href="https://github.com/Vampire38/Amazon_sales_Analysis">
-    <img src="https://raw.githubusercontent.com/Vampire38/Amazon_sales_Analysis/main/Amazon_sales_Dashboard.png" width="100%" alt="Amazon Sales Analysis"/>
+    <img src="https://raw.githubusercontent.com/Vampire38/Amazon_sales_Analysis/main/Amazon_sales_Dashboard.png" width="100%"/>
   </a>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Sales%20Dashboard-8A2BE2?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/KPI-E63946?style=for-the-badge"/>
-  </p>
-  <p align="center">
-    Developed an interactive Amazon sales dashboard to monitor KPIs, revenue trends, and business performance using clear and decision-friendly visual reports.
-  </p>
+  <p align="center">Power BI, KPI Dashboard, Data Insights</p>
 </td>
 
-<!-- <td width="50%">
-  <h3 align="center">📈 More Analytics Projects</h3>
-  <a href="https://github.com/Vampire38?tab=repositories">
-    <img src="YOUR_EXTRA_PROJECT_IMAGE_LINK_HERE" width="100%" alt="More Analytics Projects"/>
+<td width="50%">
+  <h3 align="center">🛒 Meesho Clone (Full Stack)</h3>
+  <a href="https://github.com/Vampire38/meesho-clone">
+    <img src="https://via.placeholder.com/500x300.png?text=Meesho+Clone"/>
   </a>
-  <p align="center">
-    <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Insights-2E8B57?style=for-the-badge"/>
-  </p>
-  <p align="center">
-    Explore more of my data analysis work including reporting, SQL-based analysis, dashboard development, and business insight projects.
-  </p>
-</td> -->
+  <p align="center">React, Node.js, MongoDB, REST APIs</p>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+  <h3 align="center">🛡️ Fraud Detection System</h3>
+  <a href="#">
+    <img src="https://via.placeholder.com/500x300.png?text=Fraud+Detection"/>
+  </a>
+  <p align="center">Python, Django, Backend Development</p>
+</td>
+
+<td width="50%">
+  <h3 align="center">🌐 Social Media Web App</h3>
+  <a href="#">
+    <img src="https://via.placeholder.com/500x300.png?text=Social+Media+App"/>
+  </a>
+  <p align="center">React, Django, PostgreSQL</p>
+</td>
 </tr>
 </table>
 
 ---
 
 ## 🎓 Education
-**Bachelor of Engineering in Computer Science and Engineering**  
+**Bachelor of Engineering in Computer Science**  
 MIT Kundapura | 2024  
-
-**Advanced Diploma in Data Analysis**  
-Zenofi Learning Lab
 
 ---
 
 ## 📜 Certifications
-- Python Course – Simplilearn  
-- Python Programming – Skill Vertex  
+- Python – Simplilearn  
+- Data Analytics – Zenofi Learning Lab  
 - Cloud Computing – PayPal  
-- Data Science and Data Analytics – Zenofi Learning Lab  
-- C++ Programming – Coding Ninjas  
 
 ---
 
@@ -157,8 +151,4 @@ Zenofi Learning Lab
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Vampire38&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vampire38&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
